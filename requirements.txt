@@ -1,0 +1,6 @@
+tkinter
+keyboard
+pynput
+numpy
+mss
+pywin32
